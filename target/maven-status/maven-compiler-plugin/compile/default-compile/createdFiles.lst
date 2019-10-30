@@ -1,0 +1,3 @@
+ar\org\config\core\SpringConfiguracion.class
+ar\org\config\core\WebAppInitializer.class
+ar\org\controller\MessageController.class
