@@ -17,7 +17,7 @@
         <spring.framework.version>5.1.4.RELEASE</spring.framework.version>
         <jackson.version>2.9.7</jackson.version>
         <hibernate.version>5.4.0.Final</hibernate.version>
-        <spring.security.version>5.1.4.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
         <com.google.firebase>6.10.0</com.google.firebase>
     </properties>
     
